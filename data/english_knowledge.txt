@@ -1,0 +1,211 @@
+Present Simple (Теперішній простий час)
+Використовується для опису регулярних дій, звичок, фактів та розкладів.
+Структура: Subject + V1 (he/she/it + V1+s/es)
+Негативна форма: Subject + do/does + not + V1
+Питальна форма: Do/Does + Subject + V1?
+Приклади:
+- I work every day. (Я працюю кожного дня.)
+- She speaks English fluently. (Вона вільно розмовляє англійською.)
+- Water boils at 100 degrees. (Вода кипить при 100 градусах.)
+- The train leaves at 8 AM. (Потяг відправляється о 8 ранку.)
+Маркери часу: always, usually, often, sometimes, rarely, never, every day/week/month/year.
+
+
+Present Continuous (Теперішній тривалий час)
+Використовується для дій, що відбуваються прямо зараз, або для запланованих дій у найближчому майбутньому.
+Структура: Subject + am/is/are + V-ing
+Негативна форма: Subject + am/is/are + not + V-ing
+Питальна форма: Am/Is/Are + Subject + V-ing?
+Приклади:
+- I am reading a book now. (Я зараз читаю книгу.)
+- They are playing football at the moment. (Вони зараз грають у футбол.)
+- She is meeting her friend tomorrow. (Вона зустрічається з подругою завтра.)
+Маркери часу: now, right now, at the moment, currently, today, tonight, tomorrow (для планів).
+
+
+Past Simple (Минулий простий час)
+Використовується для завершених дій у минулому.
+Структура: Subject + V2 (правильні дієслова: V1+ed, неправильні: друга форма)
+Негативна форма: Subject + did + not + V1
+Питальна форма: Did + Subject + V1?
+Приклади:
+- I visited London last year. (Я відвідав Лондон минулого року.)
+- She wrote a letter yesterday. (Вона написала листа вчора.)
+- They didn't go to school. (Вони не ходили до школи.)
+Маркери часу: yesterday, last week/month/year, ago, in 2020, when I was young.
+
+
+Past Continuous (Минулий тривалий час)
+Використовується для дій, що тривали в певний момент у минулому.
+Структура: Subject + was/were + V-ing
+Негативна форма: Subject + was/were + not + V-ing
+Питальна форма: Was/Were + Subject + V-ing?
+Приклади:
+- I was sleeping when you called. (Я спав, коли ти зателефонував.)
+- They were watching TV at 8 PM. (Вони дивилися телевізор о 8 вечора.)
+- It was raining all day yesterday. (Вчора цілий день йшов дощ.)
+Маркери часу: while, when, at that moment, at 5 o'clock yesterday, all day yesterday.
+
+
+Present Perfect (Теперішній завершений час)
+Використовується для дій, що завершилися, але мають зв'язок із теперішнім часом.
+Структура: Subject + have/has + V3 (past participle)
+Негативна форма: Subject + have/has + not + V3
+Питальна форма: Have/Has + Subject + V3?
+Приклади:
+- I have already finished my homework. (Я вже закінчив домашнє завдання.)
+- She has visited Paris three times. (Вона відвідала Париж тричі.)
+- Have you ever eaten sushi? (Ти коли-небудь їв суші?)
+Маркери часу: already, just, yet, ever, never, recently, so far, since, for.
+
+
+Future Simple (Майбутній простий час)
+Використовується для передбачень, спонтанних рішень та обіцянок.
+Структура: Subject + will + V1
+Негативна форма: Subject + will + not (won't) + V1
+Питальна форма: Will + Subject + V1?
+Приклади:
+- I will help you tomorrow. (Я допоможу тобі завтра.)
+- It will rain next week. (Наступного тижня буде дощ.)
+- She won't forget about it. (Вона не забуде про це.)
+Маркери часу: tomorrow, next week/month/year, in the future, soon, later.
+
+
+Passive Voice (Пасивний стан)
+Використовується коли дія важливіша за виконавця, або виконавець невідомий.
+Структура: Subject + be (am/is/are/was/were) + V3 (past participle) + (by agent)
+Present Simple Passive: The letter is written by her. (Лист написаний нею.)
+Past Simple Passive: The cake was baked yesterday. (Торт був спечений вчора.)
+Present Perfect Passive: The work has been completed. (Роботу завершено.)
+Future Simple Passive: The project will be finished soon. (Проект буде завершено скоро.)
+Modal Passive: This task must be done today. (Це завдання повинно бути зроблене сьогодні.)
+Приклади перетворення:
+- Active: Tom wrote the book. → Passive: The book was written by Tom.
+- Active: They build houses. → Passive: Houses are built by them.
+
+
+There is / There are (Конструкція "є, існує")
+Використовується для повідомлення про існування або наявність чогось.
+There is — з однини: There is a cat on the table. (На столі є кіт.)
+There are — з множини: There are many students in the class. (У класі багато студентів.)
+Негативна форма: There is not (isn't) / There are not (aren't)
+Питальна форма: Is there...? / Are there...?
+Минулий час: There was / There were
+Приклади:
+- There is a problem with your order. (Є проблема з вашим замовленням.)
+- There are five books on the shelf. (На полиці п'ять книг.)
+- Is there a bank near here? (Чи є тут поблизу банк?)
+- There were many people at the concert. (На концерті було багато людей.)
+
+
+Conditional Sentences (Умовні речення)
+Zero Conditional — загальні істини: If + Present Simple, Present Simple.
+If you heat water to 100°C, it boils. (Якщо нагріти воду до 100°C, вона закипить.)
+First Conditional — реальні умови в майбутньому: If + Present Simple, will + V1.
+If it rains, I will stay home. (Якщо піде дощ, я залишусь вдома.)
+Second Conditional — нереальні умови в теперішньому: If + Past Simple, would + V1.
+If I had money, I would travel. (Якби я мав гроші, я б подорожував.)
+Third Conditional — нереальні умови в минулому: If + Past Perfect, would + have + V3.
+If I had studied harder, I would have passed. (Якби я вчився старанніше, я б склав іспит.)
+
+
+Modal Verbs (Модальні дієслова)
+Can — здатність, дозвіл: I can swim. (Я вмію плавати.) Can I go? (Можна мені піти?)
+Could — можливість, ввічливе прохання: Could you help me? (Чи могли б ви мені допомогти?)
+Must — обов'язок, впевненість: You must wear a seatbelt. (Ви повинні пристебнутися.)
+Should — порада: You should see a doctor. (Тобі слід звернутися до лікаря.)
+May — дозвіл, можливість: May I come in? (Можна мені увійти?) It may rain. (Можливо, піде дощ.)
+Might — менша вірогідність: She might be late. (Вона може запізнитися.)
+Have to — зовнішній обов'язок: I have to work on Saturday. (Я повинен працювати в суботу.)
+Would — ввічливе прохання, умовний спосіб: Would you like some tea? (Чи бажаєте чаю?)
+
+
+Articles (Артиклі)
+A/An — неозначений артикль. Вживається з злічуваними іменниками в однині, коли предмет згадується вперше.
+A — перед приголосним звуком: a book, a cat, a university (звук /j/).
+An — перед голосним звуком: an apple, an hour (тиха h), an honest man.
+The — означений артикль. Вживається коли предмет конкретний, відомий обом співрозмовникам, єдиний у своєму роді.
+Приклади:
+- I saw a dog in the street. The dog was big. (Я побачив собаку на вулиці. Собака був великий.)
+- The sun rises in the east. (Сонце сходить на сході.)
+- She is the best student in the class. (Вона найкраща учениця в класі.)
+Без артикля: з множиною в загальному значенні (Dogs are loyal), з неможливими іменниками загально (Water is important), з іменами, країнами.
+
+
+Prepositions of Time (Прийменники часу)
+At — конкретний час, свята: at 5 o'clock, at noon, at midnight, at Christmas, at the weekend.
+On — дні тижня, дати: on Monday, on January 1st, on my birthday, on Christmas Day.
+In — місяці, роки, пори року, частини дня: in January, in 2024, in summer, in the morning.
+For — тривалість: for two hours, for a long time, for three years.
+Since — з певного моменту: since Monday, since 2020, since I was born.
+During — протягом події: during the meeting, during the summer, during the lesson.
+
+
+Prepositions of Place (Прийменники місця)
+In — всередині: in the room, in the box, in London, in Ukraine.
+On — на поверхні: on the table, on the wall, on the floor, on the bus.
+At — у конкретній точці: at the door, at the bus stop, at home, at work, at school.
+Between — між: between the two buildings (між двома будівлями).
+Behind — позаду: behind the house (за будинком).
+In front of — перед: in front of the school (перед школою).
+Next to / beside — поруч з: next to the bank (поруч з банком).
+Above / over — над: above the clouds (над хмарами).
+Below / under — під: under the bridge (під мостом).
+
+
+Comparatives and Superlatives (Ступені порівняння прикметників)
+Короткі прикметники (1 склад): big → bigger → the biggest, tall → taller → the tallest.
+Прикметники на -y: happy → happier → the happiest, easy → easier → the easiest.
+Довгі прикметники (2+ склади): beautiful → more beautiful → the most beautiful.
+Неправильні: good → better → the best, bad → worse → the worst, far → further → the furthest.
+Порівняльна конструкція: as...as: She is as tall as her brother. (Вона така ж висока, як її брат.)
+Приклади:
+- This book is more interesting than that one. (Ця книга цікавіша за ту.)
+- Mount Everest is the highest mountain. (Еверест — найвища гора.)
+
+
+Reported Speech (Непряма мова)
+При переведенні з прямої мови в непряму, час зсувається на один крок назад.
+Present Simple → Past Simple: "I like coffee" → He said he liked coffee.
+Present Continuous → Past Continuous: "I am working" → She said she was working.
+Past Simple → Past Perfect: "I visited Paris" → He said he had visited Paris.
+Will → Would: "I will call you" → She said she would call me.
+Can → Could: "I can swim" → He said he could swim.
+Також змінюються: this→that, here→there, now→then, today→that day, tomorrow→the next day.
+
+
+Phrasal Verbs (Фразові дієслова)
+Look up — шукати (в словнику): Look up this word. (Знайди це слово.)
+Look after — доглядати: She looks after her grandmother. (Вона доглядає за бабусею.)
+Give up — здатися, кинути: Don't give up! (Не здавайся!)
+Turn on/off — вмикати/вимикати: Turn on the light. (Увімкни світло.)
+Put off — відкладати: They put off the meeting. (Вони відклали зустріч.)
+Take off — знімати (одяг), злітати: The plane took off. (Літак злетів.)
+Get up — вставати: I get up at 7 AM. (Я встаю о 7 ранку.)
+Come back — повертатися: When will you come back? (Коли ти повернешся?)
+Find out — дізнатися: I found out the truth. (Я дізнався правду.)
+Break down — ламатися: My car broke down. (Моя машина зламалася.)
+Run out of — закінчуватися: We ran out of milk. (У нас закінчилося молоко.)
+Look forward to — з нетерпінням чекати: I look forward to meeting you. (З нетерпінням чекаю зустрічі.)
+
+
+Used to (Конструкція "раніше робив")
+Використовується для опису звичок або станів у минулому, які більше не актуальні.
+Структура: Subject + used to + V1
+Негативна: Subject + didn't use to + V1
+Питальна: Did + Subject + use to + V1?
+Приклади:
+- I used to play football when I was young. (Раніше я грав у футбол, коли був молодим.)
+- She didn't use to like coffee. (Раніше вона не любила каву.)
+- Did you use to live in Kyiv? (Ти раніше жив у Києві?)
+Різниця з be used to: I am used to waking up early. (Я звик рано вставати.) — теперішня звичка.
+
+
+Question Tags (Питання-підтвердження)
+Короткі питання в кінці речення для підтвердження. Якщо головне речення стверджувальне — тег негативний, і навпаки.
+Приклади:
+- You are a student, aren't you? (Ти студент, чи не так?)
+- She can't swim, can she? (Вона не вміє плавати, чи не так?)
+- They went home, didn't they? (Вони пішли додому, чи не так?)
+- It won't rain, will it? (Дощу не буде, правда?)
+- Let's go, shall we? (Підемо, так?)
